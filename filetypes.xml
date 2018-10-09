@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="test_asset" type="JSON" />
+      <mapping pattern="map" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
