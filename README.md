@@ -1,2 +1,6 @@
-# ILP_project_test
-An initial project created to test how to add an android project onto git, working with private repository and adding rights to a 3rd party. Note: this repository is not for testing purposes.
+# Coinz
+UMN: s1764997   
+Name: Matus Drgon
+
+
+This android game is a course project for the university course Informatics Large Practical at the University of Edinburgh.
