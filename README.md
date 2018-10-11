@@ -1,6 +1,5 @@
 # Coinz
 UMN: s1764997   
-
 Name: Matus Drgon
 
 
